@@ -1,6 +1,6 @@
 # ImageClassifier-Cucumber-VS-Green_Zuchinni  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yWc5n03TqaJMpgztC7jq-rxJtbFAhgHW#scrollTo=_U_QnNS0p7ge)
 
-### An image classifier deep learning model built using CNNs (RESNET-34) and Deep-Learning frameworks [FastAI](https://docs.fast.ai/),[Tensorflow](https://www.tensorflow.org/) & [Keras](https://keras.io/).
+### An image classifier deep learning model built using CNNs (RESNET-34 & RESNET-50) and Deep-Learning framework--> [FastAI](https://docs.fast.ai/) which under the hood uses [PyTorch](https://pytorch.org/)
 It distinguishes the images of Cucumber & Green Zucchini and classifies them into the respective category.The model achieved an accuracy of 81% on validation set. The sole intention of the project was to study the building blocks on CNN and its architecture.
 
 ### Dataset Overview:
